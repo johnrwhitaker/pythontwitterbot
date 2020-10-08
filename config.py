@@ -1,5 +1,5 @@
 # The hashtage that the bot will search for
-QUERY = '#rhcsa8'
+QUERY = '#docker'
 
 # Set to true if you'd like to like the tweets
 LIKE = True
